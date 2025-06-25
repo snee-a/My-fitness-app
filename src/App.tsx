@@ -16,7 +16,7 @@ import PeriodTracker from './components/PeriodTracker';
 import Login from './components/Login';
 import Signup from './components/Signup';
 import PostureCheck from './components/PostureCheck';
-import Profile from './components/Profile';
+import Profile from './components/profile';
 import UserProfile from './components/UserProfile';
 import MaleTrainer from './components/MaleTrainer';
 import FemaleTrainer from './components/FemaleTrainer';
