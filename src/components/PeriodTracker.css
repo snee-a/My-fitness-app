@@ -1,0 +1,25 @@
+.tracker-container {
+    background: linear-gradient(to bottom right, #ffe0f0, #ffd6eb);
+    padding: 2rem;
+    text-align: center;
+    border-radius: 20px;
+    max-width: 500px;
+    margin: 3rem auto;
+    box-shadow: 0 0 20px #f3c1d8;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+  }
+  .tracker-container h2 {
+    color: #c2185b;
+    margin-bottom: 1rem;
+  }
+  input[type="date"] {
+    padding: 0.5rem;
+    border-radius: 10px;
+    border: 2px solid #c2185b;
+    font-size: 1rem;
+  }
+  .reminder {
+    margin-top: 2rem;
+    color: #880e4f;
+  }
+  

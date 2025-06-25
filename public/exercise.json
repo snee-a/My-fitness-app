@@ -1,0 +1,364 @@
+
+[
+  
+  {
+    "name": "Plank",
+    "muscleGroup": "Core",
+    "duration": 3,
+    "equipment": "None",
+    "basePriority": {
+      "core": 1,
+      "weight_loss": 3,
+      "weight_gain": 4,
+      "cardiovascular_health": 3,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=pSHjTRCQxIw"
+  },
+  {
+    "name": "Bird Dog Exercise",
+    "muscleGroup": "Core",
+    "duration": 4,
+    "equipment": "None",
+    "basePriority": {
+      "core": 1,
+      "weight_loss": 4,
+      "weight_gain": 5,
+      "cardiovascular_health": 3,
+      "build_strength": 3,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=wiFNA3sqjCA"
+  },
+  {
+    "name": "Pilates",
+    "muscleGroup": "Full Body",
+    "duration": 20,
+    "equipment": "Mat",
+    "basePriority": {
+      "core": 2,
+      "weight_loss": 2,
+      "weight_gain": 5,
+      "cardiovascular_health": 3,
+      "build_strength": 3,
+      "flexibility": 2
+    },
+    "videoLink": "https://www.youtube.com/watch?v=lCg_gh_fppI"
+  },
+  {
+    "name": "Crunch",
+    "muscleGroup": "Core",
+    "duration": 5,
+    "equipment": "None",
+    "basePriority": {
+      "core": 1,
+      "weight_loss": 3,
+      "weight_gain": 3,
+      "cardiovascular_health": 4,
+      "build_strength": 3,
+      "flexibility": 4
+    },
+    "videoLink": "https://www.youtube.com/watch?v=Xyd_fa5zoEU"
+  },
+  {
+    "name": "Single Leg Bridge",
+    "muscleGroup": "Glutes",
+    "duration": 5,
+    "equipment": "None",
+    "basePriority": {
+      "core": 2,
+      "weight_loss": 3,
+      "weight_gain": 2,
+      "cardiovascular_health": 3,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=bgo9dJB_icg"
+  },
+  {
+    "name": "Bicycle Crunch",
+    "muscleGroup": "Core",
+    "duration": 5,
+    "equipment": "None",
+    "basePriority": {
+      "core": 1,
+      "weight_loss": 2,
+      "weight_gain": 3,
+      "cardiovascular_health": 2,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=9FGilxCbdz8"
+  },
+  {
+    "name": "Dead Bug",
+    "muscleGroup": "Core",
+    "duration": 4,
+    "equipment": "None",
+    "basePriority": {
+      "core": 1,
+      "weight_loss": 3,
+      "weight_gain": 4,
+      "cardiovascular_health": 3,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=4dTnBU7nFjI"
+  },
+  {
+    "name": "Modified Plank",
+    "muscleGroup": "Core",
+    "duration": 3,
+    "equipment": "None",
+    "basePriority": {
+      "core": 1,
+      "weight_loss": 3,
+      "weight_gain": 4,
+      "cardiovascular_health": 3,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=zFptdjLmyI0"
+  },
+  {
+    "name": "Bird Dog Plank",
+    "muscleGroup": "Core",
+    "duration": 4,
+    "equipment": "None",
+    "basePriority": {
+      "core": 1,
+      "weight_loss": 4,
+      "weight_gain": 5,
+      "cardiovascular_health": 3,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=6NfL00iXDOE"
+  },
+  {
+    "name": "Walking",
+    "muscleGroup": "Legs",
+    "duration": 20,
+    "equipment": "None",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 1,
+      "weight_gain": 5,
+      "cardiovascular_health": 1,
+      "build_strength": 4,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=1fBhZy6GRro"
+  },
+  {
+    "name": "Cycling",
+    "muscleGroup": "Legs",
+    "duration": 20,
+    "equipment": "Bicycle",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 1,
+      "weight_gain": 4,
+      "cardiovascular_health": 1,
+      "build_strength": 3,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=1Vf5y0rBOVM"
+  },
+  {
+    "name": "Swimming",
+    "muscleGroup": "Full Body",
+    "duration": 30,
+    "equipment": "Pool",
+    "basePriority": {
+      "core": 2,
+      "weight_loss": 1,
+      "weight_gain": 4,
+      "cardiovascular_health": 1,
+      "build_strength": 2,
+      "flexibility": 2
+    },
+    "videoLink": "https://www.youtube.com/watch?v=EsdB7Le4vMQ"
+  },
+  {
+    "name": "HIIT",
+    "muscleGroup": "Full Body",
+    "duration": 20,
+    "equipment": "None",
+    "basePriority": {
+      "core": 2,
+      "weight_loss": 1,
+      "weight_gain": 4,
+      "cardiovascular_health": 1,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=ml6cT4AZdqI"
+  },
+  {
+    "name": "Burpee",
+    "muscleGroup": "Full Body",
+    "duration": 5,
+    "equipment": "None",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 1,
+      "weight_gain": 2,
+      "cardiovascular_health": 2,
+      "build_strength": 2,
+      "flexibility": 4
+    },
+    "videoLink": "https://www.youtube.com/watch?v=TU8QYVW0gDU"
+  },
+  {
+    "name": "Pull-Up",
+    "muscleGroup": "Back",
+    "duration": 5,
+    "equipment": "Pull-Up Bar",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 3,
+      "weight_gain": 1,
+      "cardiovascular_health": 3,
+      "build_strength": 1,
+      "flexibility": 4
+    },
+    "videoLink": "https://www.youtube.com/watch?v=eGo4IYlbE5g"
+  },
+  {
+    "name": "Squat",
+    "muscleGroup": "Legs",
+    "duration": 5,
+    "equipment": "None",
+    "basePriority": {
+      "core": 2,
+      "weight_loss": 2,
+      "weight_gain": 1,
+      "cardiovascular_health": 3,
+      "build_strength": 1,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=aclHkVaku9U"
+  },
+  {
+    "name": "Push-Up",
+    "muscleGroup": "Chest",
+    "duration": 5,
+    "equipment": "None",
+    "basePriority": {
+      "core": 2,
+      "weight_loss": 2,
+      "weight_gain": 2,
+      "cardiovascular_health": 3,
+      "build_strength": 1,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=_l3ySVKYVJ8"
+  },
+  {
+    "name": "Lunge",
+    "muscleGroup": "Legs",
+    "duration": 5,
+    "equipment": "None",
+    "basePriority": {
+      "core": 2,
+      "weight_loss": 2,
+      "weight_gain": 2,
+      "cardiovascular_health": 2,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=QOVaHwm-Q6U"
+  },
+  {
+    "name": "Bench Press",
+    "muscleGroup": "Chest",
+    "duration": 5,
+    "equipment": "Barbell",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 4,
+      "weight_gain": 1,
+      "cardiovascular_health": 3,
+      "build_strength": 1,
+      "flexibility": 4
+    },
+    "videoLink": "https://www.youtube.com/watch?v=rT7DgCr-3pg"
+  },
+  {
+    "name": "Deadlift",
+    "muscleGroup": "Back",
+    "duration": 5,
+    "equipment": "Barbell",
+    "basePriority": {
+      "core": 2,
+      "weight_loss": 3,
+      "weight_gain": 1,
+      "cardiovascular_health": 3,
+      "build_strength": 1,
+      "flexibility": 4
+    },
+    "videoLink": "https://www.youtube.com/watch?v=op9kVnSso6Q"
+  },
+  {
+    "name": "Glute Kickback",
+    "muscleGroup": "Glutes",
+    "duration": 5,
+    "equipment": "Resistance Band",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 3,
+      "weight_gain": 2,
+      "cardiovascular_health": 3,
+      "build_strength": 2,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=WRD3S5NQYVs"
+  },
+  {
+    "name": "Running",
+    "muscleGroup": "Full Body",
+    "duration": 20,
+    "equipment": "None",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 1,
+      "weight_gain": 4,
+      "cardiovascular_health": 1,
+      "build_strength": 3,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=wCVSv7UxB2E"
+  },
+  {
+    "name": "Dancing",
+    "muscleGroup": "Full Body",
+    "duration": 20,
+    "equipment": "None",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 1,
+      "weight_gain": 4,
+      "cardiovascular_health": 1,
+      "build_strength": 3,
+      "flexibility": 3
+    },
+    "videoLink": "https://www.youtube.com/watch?v=Lv3lq2CArDM"
+  },
+  {
+    "name": "Shoulder Stretch",
+    "muscleGroup": "Shoulders",
+    "duration": 3,
+    "equipment": "None",
+    "basePriority": {
+      "core": 3,
+      "weight_loss": 4,
+      "weight_gain": 5,
+      "cardiovascular_health": 4,
+      "build_strength": 4,
+      "flexibility": 1
+    },
+    "videoLink": "https://www.youtube.com/watch?v=JV9w6z0Iu_U"
+  }
+]
