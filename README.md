@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with [my fitness app](https://my-fitness-app-gules.vercel.app)
 
-- 👨‍💻 All of my projects are available at [https://my-fitness-app-gules.vercel.app](https://my-fitness-app-gules.vercel.app)
+- 👨‍💻 All of my projects are available on [https://my-fitness-app-gules.vercel.app](https://my-fitness-app-gules.vercel.app)
 
 - 📫 How to reach me **pandeysneha953@gmail.com**
 
