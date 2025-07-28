@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **pandeysneha953@gmail.com**
 
-- 📄 Know about my experiences [https://geuac-my.sharepoint.com/:b:/g/personal/rahulsinghbora_22041049_gehu_ac_in/ETrlz4oZiSlBrJH4XeDFVLQBJW9lkdePb0f9PFCsXPeGDA?e=f1oTZN](https://geuac-my.sharepoint.com/:b:/g/personal/rahulsinghbora_22041049_gehu_ac_in/ETrlz4oZiSlBrJH4XeDFVLQBJW9lkdePb0f9PFCsXPeGDA?e=f1oTZN)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
